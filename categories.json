@@ -1,0 +1,26 @@
+[
+  {
+    "id": "live-wallpapers",
+    "title": "Live-wallpapers",
+    "description": "Amazing live wallpapers inspired by nature and technology.",
+    "preview": "assets/cat_preview.jpeg",
+    "repo_url": "",
+    "wallpaperCount": 4
+  },
+  {
+    "id": "cars",
+    "title": "Cars",
+    "description": "Amazing live wallpapers of cars",
+    "preview": "assets/car_preview.jpeg",
+    "repo_url": "",
+    "wallpaperCount": 0
+  },
+  {
+    "id": "sea-view",
+    "title": "sea-view",
+    "description": "Amazing live wallpapers of sea.",
+    "preview": "assets/sea_preview.jpeg",
+    "repo_url": "",
+    "wallpaperCount": 0
+  }
+]
