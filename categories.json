@@ -8,7 +8,7 @@
     "wallpaperCount": 4
   },
   {
-    "id": "cars",
+    "id": "cars-live",
     "title": "Cars",
     "description": "Amazing live wallpapers of cars",
     "preview": "assets/car_preview.jpeg",
@@ -16,7 +16,7 @@
     "wallpaperCount": 3
   },
   {
-    "id": "sea-view",
+    "id": "sea-view-live",
     "title": "sea-view",
     "description": "Amazing live wallpapers of sea.",
     "preview": "assets/sea_preview.jpeg",
